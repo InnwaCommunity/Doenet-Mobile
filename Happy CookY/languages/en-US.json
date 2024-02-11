@@ -1,0 +1,15 @@
+{
+    "Enter Your Name":"Enter Your Name",
+    "Enter Your Password": "Enter Your Password",
+    "forget password":"Forget Password",
+    "login":"Login",
+    "register": "Register",
+    "donothaveaaccount":"Don't have an account?",
+    "alreadyhaveanaccount": "Already have an account?",
+    "signup":"Signup",
+    "Invalidusernamepassword": "Invalid UserName and Password",
+    "NeedToAddUserName": "Need To Add UserName",
+    "NeedToAddPassword": "Need To Add Password",
+    "OK": "OK",
+    "Cancel": "Cancel"
+}
